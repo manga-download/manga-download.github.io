@@ -8,8 +8,16 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
-    - label: "Learn More"
-      url: "/terms/"
+    - label: "Download (Stable)"
+      icon : /assets/images/icon_download_stable.png
+      url: "https://github.com/manga-download/hakuneko/releases/tag/v6.1.7"
+    - label: "Download (Experimental)"
+      icon : /assets/images/icon_download_nightly.png
+      url: "https://github.com/manga-download/hakuneko/releases"
+    - label: "Join us on Discord"
+      icon : /assets/images/discord.png
+      url: "https://discord.gg/A5d3NDf"
+      
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Find your favorites mangas from your usual websites sources and download or read them"
 intro: 

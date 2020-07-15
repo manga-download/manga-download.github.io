@@ -4,7 +4,7 @@ main:
      url: /news/
    - title: "Documentation"
      url: https://github.com/manga-download/hakuneko/wiki
-   - title: "Issues?"
+   - title: "Issues/Request?"
      url: https://github.com/manga-download/hakuneko/issues/new/choose
    - title: "Developer"
      url: https://github.com/manga-download/hakuneko/wiki/Developer-Manual
