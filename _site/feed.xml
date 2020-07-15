@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-15T02:05:32+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hakuneko</title><subtitle>HakuNeko is a cross-platform downloader for manga and anime from various websites. HakuNeko was made to help users downloading media for circumstances that require offline usage.</subtitle><author><name>Hakuneko</name></author><entry><title type="html">New Site</title><link href="http://localhost:4000/new-site/" rel="alternate" type="text/html" title="New Site" /><published>2020-07-15T00:00:00+02:00</published><updated>2020-07-15T00:00:00+02:00</updated><id>http://localhost:4000/new-site</id><content type="html" xml:base="http://localhost:4000/new-site/">&lt;p&gt;I hate myself so much. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
+
+&lt;h1 id=&quot;title&quot;&gt;Title&lt;/h1&gt;
+
+&lt;h2 id=&quot;subtitle&quot;&gt;Subtitle&lt;/h2&gt;
+
+&lt;p&gt;Fuck yeah
+&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Todo:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Moo&lt;/li&gt;
+  &lt;li&gt;Moo Again
+    &lt;ul&gt;
+      &lt;li&gt;Bah ?&lt;/li&gt;
+      &lt;li&gt;Meh ?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Hakuneko</name></author><summary type="html">I hate myself so much. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</summary></entry><entry><title type="html">I See Dead People</title><link href="http://localhost:4000/i-see-dead-people/" rel="alternate" type="text/html" title="I See Dead People" /><published>2001-01-01T00:00:00+01:00</published><updated>2001-01-01T00:00:00+01:00</updated><id>http://localhost:4000/i-see-dead-people</id><content type="html" xml:base="http://localhost:4000/i-see-dead-people/">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;</content><author><name>Hakuneko</name></author><summary type="html">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</summary></entry></feed>
