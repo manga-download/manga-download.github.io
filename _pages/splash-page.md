@@ -18,7 +18,7 @@ header:
       icon : /assets/images/discord.png
       url: "https://discord.gg/A5d3NDf"
       
-  caption: "images from Hakuneko's interface"
+  caption: "images from HakuNeko's interface"
 excerpt: "Find your favorites mangas from your usual websites sources and download or read them"
 intro: 
   - excerpt: 'HakuNeko is a cross-platform downloader for manga and anime from various websites. HakuNeko was made to help users downloading media for circumstances that require offline usage. The philosophy is ad-hoc consumption, get it when you going to read/watch it. It is not meant to be a mass downloader to stock up thousands of chapters that are just collected and will probably never be read.'
