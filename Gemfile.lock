@@ -221,6 +221,7 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (3.1.1)
+    rake (12.3.3)
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
@@ -253,6 +254,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   minimal-mistakes-jekyll
+  rake
 
 BUNDLED WITH
    2.1.4
