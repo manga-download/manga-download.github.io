@@ -11,8 +11,7 @@ header:
     - label: "Learn More"
       url: "/terms/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "for Linux, Windows & MacOS. 
-Find your favorites mangas from your usual websites sources and download or read them"
+excerpt: "Find your favorites mangas from your usual websites sources and download or read them"
 intro: 
   - excerpt: 'HakuNeko is a cross-platform downloader for manga and anime from various websites. HakuNeko was made to help users downloading media for circumstances that require offline usage. The philosophy is ad-hoc consumption, get it when you going to read/watch it. It is not meant to be a mass downloader to stock up thousands of chapters that are just collected and will probably never be read.'
 feature_row:
