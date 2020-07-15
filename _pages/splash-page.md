@@ -18,49 +18,54 @@ header:
       icon : /assets/images/discord.png
       url: "https://discord.gg/A5d3NDf"
       
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "images from Hakuneko's interface"
 excerpt: "Find your favorites mangas from your usual websites sources and download or read them"
 intro: 
   - excerpt: 'HakuNeko is a cross-platform downloader for manga and anime from various websites. HakuNeko was made to help users downloading media for circumstances that require offline usage. The philosophy is ad-hoc consumption, get it when you going to read/watch it. It is not meant to be a mass downloader to stock up thousands of chapters that are just collected and will probably never be read.'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    image_caption: "todo: find an image"
     alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Lots of sources"
+    excerpt: "Lots of websites hosting content are included as **Connectors**. Simply pick your favorite."
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    image_caption: "todo : find an image"
     alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Download with a click"
+    excerpt: "Simply find your manga and click on the download button to retrieve it's content on your drive."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    image_caption: "todo : find an image"
+    title: "Multi Languages"
+    excerpt: "Find connectors dedicated to your own language. Or discover multi languages connectors."
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    image_caption: "todo: find an image"
     alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+    title: "Mangas, Animes and more ..."
+    excerpt: 'Various content for various tastes ! Hakuenko helps you to find your content on any format. If you want more, you can ask for a new connector (but be warned of the long list already waiting).'
+    url: "https://github.com/manga-download/hakuneko/issues"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    image_caption: "todo: find an image"
     alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
+    title: "Open Source"
+    excerpt: 'Join the contributors and help us improve HakuNeko. You will find detailled documentation to guide you.'
+    url: "https://github.com/manga-download/hakuneko/wiki/Developer-Manual"
+    btn_label: "Developers Guides"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    image_caption: "todo: find an image"
     alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
+    title: "Start reading"
+    excerpt: 'Download HakuNeko and find out in the documents all the advanced features you will be able to use.'
+    url: "https://github.com/manga-download/hakuneko/wiki"
+    btn_label: "How to use"
     btn_class: "btn--primary"
 ---
 
