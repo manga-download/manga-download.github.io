@@ -23,7 +23,7 @@ feature_row:
     image_caption: "Connectors"
     alt: "Connectors preview"
     title: "600+ sources"
-    excerpt: "600+ websites which host the content are included as **Connectors**. Simply pick your favorite one. HakuNeko does not host anything by itself."
+    excerpt: "600+ websites which host the content are included as **Connectors**. HakuNeko does not host anything by itself."
     url: "https://github.com/manga-download/hakuneko/tree/master/src/web/mjs/connectors"
     btn_label: "List of Connectors"
     btn_class: "btn--primary"
