@@ -20,7 +20,7 @@ title                    : "HakuNeko"
 title_separator          : "-"
 subtitle                 : "Manga & Anime Downloader for Linux, Windows & MacOS" # site tagline that appears below site title in masthead
 name                     : "HakuNeko"
-description              : "HakuNeko is a cross-platform downloader for manga and anime from various websites. HakuNeko was made to help users downloading media for circumstances that require offline usage."
+description              : "HakuNeko is a cross-platform downloader for manga and anime from various websites. HakuNeko was made to help users to download media for circumstances that require it's offline usage."
 url                      : "https://hakuneko.download" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "manga-download/hakuneko" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
