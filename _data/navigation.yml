@@ -4,14 +4,12 @@ main:
      url: /news/
    - title: "Documentation"
      url: https://github.com/manga-download/hakuneko/wiki
-   - title: "Issues/Request?"
+   - title: "Issues/Requests?"
      url: https://github.com/manga-download/hakuneko/issues/new/choose
    - title: "Developer"
      url: https://github.com/manga-download/hakuneko/wiki/Developer-Manual
    - title: "GitHub"
      url: https://github.com/manga-download/hakuneko
-   - title: "Archives"
-     url: /archives/
    - title: "About"
      url: /about/
 

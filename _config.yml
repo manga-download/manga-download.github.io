@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "HakuNeko"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/logo_64.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Lurking the internet since forever."
   location         : 
   email            :
