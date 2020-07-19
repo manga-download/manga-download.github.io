@@ -16,7 +16,7 @@ header:
       url: "https://discord.gg/A5d3NDf"
       
   caption: "HakuNeko's interface"
-excerpt: "Find your favorites mangas from your usual websites sources and download or read them"
+excerpt: "with HakuNeko find your favorite manga or anime from your usual websites (connectors) and start the downloader or simply view the content."
 intro: 
   - excerpt: 'HakuNeko is a cross-platform downloader for manga and anime from various websites. HakuNeko was made to help users downloading media for circumstances that require offline usage. The philosophy is ad-hoc consumption, get it when you going to read/watch it. It is not meant to be a mass downloader to stock up thousands of chapters that are just collected and will probably never be read.'
 feature_row:
@@ -39,6 +39,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/splash-th-multilang.png
     image_caption: "Languages"
+    alt: "Multi Languages"
     title: "Multi Languages"
     excerpt: "Find connectors dedicated to your own language. Or discover multi languages connectors."
     url: "https://github.com/manga-download/hakuneko/wiki/Quick-Reference#chapter-list"
