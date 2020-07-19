@@ -14,11 +14,10 @@ header:
       url: "https://github.com/manga-download/hakuneko/releases"
     - label: '<img alt="Discord" src="/assets/images/discord-small.png" /> Join us on Discord'
       url: "https://discord.gg/A5d3NDf"
-      
   caption: "HakuNeko's interface"
-excerpt: "With HakuNeko, find your favorite manga or anime from your usual websites (AKA connectors) and start downloading or simply view the content."
+  excerpt: "With HakuNeko, find your favorite manga or anime from your usual websites (AKA connectors) and start downloading or simply view the content."
 intro: 
-  - excerpt: "HakuNeko is a cross-platform downloader for manga and anime from various websites. HakuNeko was made to help users who download media for circumstances that require it's offline usage. The philosophy is ad-hoc consumption, get it when you want to read/watch it. It is not meant to be a mass downloader to stock up thousands of chapters that are just collected and will probably never be read."
+  - excerpt: "HakuNeko is a cross-platform downloader for manga and anime from various websites. HakuNeko was made to help users who download media for circumstances that requires offline usage. The philosophy is ad-hoc consumption, get it when you want to read/watch it. It is not meant to be a mass downloader to stock up thousands of chapters that are just collected and will probably never be read."
 feature_row:
   - image_path: assets/images/splash-th-connectors.png
     image_caption: "Connectors"
@@ -28,12 +27,11 @@ feature_row:
     url: "https://github.com/manga-download/hakuneko/tree/master/src/web/mjs/connectors"
     btn_label: "List of Connectors"
     btn_class: "btn--primary"
-    
   - image_path: /assets/images/splash-th-downloads.png
     image_caption: "Downloads"
     alt: "Downloads preview"
     title: "Download with a click"
-    excerpt: "Simply find your manga and click on the download button to retrieve it's content to your drive."
+    excerpt: "Simply find your manga and click on the download button to retrieve its content to your drive."
     url: "https://github.com/manga-download/hakuneko/wiki/Quick-Reference#download-queue"
     btn_label: "Download Queues"
     btn_class: "btn--primary"
@@ -59,7 +57,7 @@ feature_row3:
     image_caption: "Code editor"
     alt: "Code editor"
     title: "Open Source"
-    excerpt: 'Join the contributors and help us improve HakuNeko. You will find detailled guides on the github and a friendly developers' community on discord to get some help.<br/>Start with a Pull Request and kindly ask for a review.'
+    excerpt: "Join the contributors and help us improve HakuNeko. You will find detailled guides on the github and a friendly developers community on discord to get some help.<br/>Start with a Pull Request and kindly ask for a review."
     url: "https://github.com/manga-download/hakuneko/wiki/Developer-Manual"
     btn_label: "Developers Guides"
     btn_class: "btn--warning"
