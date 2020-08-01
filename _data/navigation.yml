@@ -1,8 +1,6 @@
 # main links
 main:
-   - title: "News"
-     url: /news/
-   - title: "Documentation"
+   - title: "How to use"
      url: https://github.com/manga-download/hakuneko/wiki
    - title: "Issues/Requests?"
      url: https://github.com/manga-download/hakuneko/issues/new/choose
