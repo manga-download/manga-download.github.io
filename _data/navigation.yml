@@ -1,57 +1,73 @@
 # main links
 main:
    - title: "How to use"
-     url: https://github.com/manga-download/hakuneko/wiki
+     url: /docs/install/
    - title: "Issues/Requests?"
-     url: https://github.com/manga-download/hakuneko/issues/new/choose
+     url: /docs/troubleshoot/
    - title: "Developer"
      url: https://github.com/manga-download/hakuneko/wiki/Developer-Manual
    - title: "GitHub"
      url: https://github.com/manga-download/hakuneko
+   - title: "Connectors"
+     url: /connectors/
+   - title: "Discord"
+     url: https://discord.gg/A5d3NDf
    - title: "About"
      url: /about/
 
-# sidebar navigation list sample
-sidebar-sample:
-  - title: "Parent Page A"
+# documentation links
+docs:
+  - title: Installation
     children:
-      - title: "Child Page A1"
-        url: /child-page-a1/
-      - title: "Child Page A2"
-        url: /child-page-a2/
-      - title: "Child Page A3"
-        url: /child-page-a3/
-      - title: "Child Page A4"
-        url: /child-page-a4/
-  - title: "Parent Page B"
+      - title: "Install"
+        url: /docs/install/
+      - title: "Directories"
+        url: /docs/install/#directories
+  - title: Interface Layout
     children:
-      - title: "Child Page B1"
-        url: /child-page-b1/
-      - title: "Child Page B2"
-        url: /child-page-b2/
-      - title: "Child Page B3"
-        url: /child-page-b3/
-      - title: "Child Page B4"
-        url: /child-page-b4/
-      - title: "Child Page B5"
-        url: /child-page-b5/
-  - title: "Parent Page C"
+      - title: "Interface"
+        url: /docs/interface/
+      - title: "Settings"
+        url: /docs/interface/#settings
+      - title: "Source Selection"
+        url: /docs/interface/#source-selection
+      - title: "Manga List"
+        url: /docs/interface/#manga-list
+      - title: "Chapter List"
+        url: /docs/interface/#chapter-list
+      - title: "Preview Panel"
+        url: /docs/interface/#preview-panel
+      - title: "Download Queue"
+        url: /docs/interface/#download-queue
+      - title: "Reader"
+        url: /docs/interface/#reader
+  - title: Advanced
     children:
-      - title: "Child Page C1"
-        url: /child-page-c1/
-      - title: "Child Page C2"
-        url: /child-page-c2/
-      - title: "Child Page C3"
-        url: /child-page-c3/
-      - title: "Child Page C4"
-        url: /child-page-c4/
-      - title: "Child Page C5"
-        url: /child-page-c5/
-  - title: "Parent Page D"
+      - title: "Manual website interaction"
+        url: /docs/manual-website-interaction/
+      - title: "Troubleshooting"
+        url: /docs/troubleshoot/
+  - title: FAQ
     children:
-      - title: "Child Page D1"
-        url: /child-page-d1/
-      - title: "Child Page D2"
-        url: /child-page-d2/
-      - title: "Child Page D3 (External)"
-        url: https://your-domain.com
+      - title: "FAQ"
+        url: /docs/FAQ/
+      - title: "Android or iOS"
+        url: /docs/FAQ/#android-or-ios
+      - title: "Image format"
+        url: /docs/FAQ/#image-format
+      - title: "Convert images"
+        url: /docs/FAQ/#convert-images
+      - title: "Kindle"
+        url: /docs/FAQ/#kindle
+      - title: "Missing Manga"
+        url: /docs/FAQ/#missing-manga
+      - title: "Copy and paste"
+        url: /docs/FAQ/#copy-and-paste
+      - title: "Download with failures"
+        url: /docs/FAQ/#download-with-failures
+
+
+
+
+
+

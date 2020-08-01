@@ -2,7 +2,7 @@
 permalink: /about/
 layout: single
 title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "The long history of HakuNeko."
 single_layout_gallery:
   - image_path: /assets/images/about/legacy-linux.jpg
     alt: "HakuNeko for Linux (Legacy)"

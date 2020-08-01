@@ -32,7 +32,7 @@ feature_row:
     alt: "Downloads preview"
     title: "Download with a click"
     excerpt: "Simply find your manga and click on the download button to retrieve its content to your drive."
-    url: "https://github.com/manga-download/hakuneko/wiki/Quick-Reference#download-queue"
+    url: "/docs/interface/#download-queue"
     btn_label: "Download Queues"
     btn_class: "btn--primary"
   - image_path: /assets/images/splash-th-multilang.png
@@ -40,7 +40,7 @@ feature_row:
     alt: "Multi Languages"
     title: "Multi Language Support"
     excerpt: "Find connectors dedicated to your own language. Or simply discover connectors having multi languages."
-    url: "https://github.com/manga-download/hakuneko/wiki/Quick-Reference#chapter-list"
+    url: "/docs/interface/#chapter-listt"
     btn_label: "Chapter filters"
     btn_class: "btn--primary"
 feature_row2:
@@ -49,7 +49,7 @@ feature_row2:
     alt: "Mangas and Animes"
     title: "Mangas, Animes and more ..."
     excerpt: 'Various content for various tastes ! HakuNeko allows you to enjoy your content in any format. If you want more, you can always ask for a new connector or feature (but be warned of the long list already waiting).<br/>You can also export to pdf or to ebook formats or use advanced *post scripts* to do whatever you want.'
-    url: "https://github.com/manga-download/hakuneko/wiki/Quick-Reference#preview-panel"
+    url: "/docs/interface/#preview-panel"
     btn_label: "Content preview"
     btn_class: "btn--primary"
 feature_row3:
