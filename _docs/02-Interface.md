@@ -14,7 +14,7 @@ The basic user interface is divided into different panels, which are somewhat gr
 -   The [Manga List](#manga-list) shows all available mangas from different sources such as websites, bookmarks, clipboard, …​ Furthermore it provides a simple search to filter the list.
 -   The [Chapter List](#chapter-list) shows all available chapters for the currently selected manga from the manga list. It also supports basic sorting and advanced filtering options.
 -   The [Download Queue](#download-queue) panel shows the status and progress of all chapters that are currently downloading.
--   The [???](#preview-panel) can be used to show the pages of the currently selected manga chapter or play the video stream in case of a selected anime episode.
+-   The [Preview Panel](#preview-panel) can be used to show the pages of the currently selected manga chapter or play the video stream in case of a selected anime episode.
 
 Settings
 --------

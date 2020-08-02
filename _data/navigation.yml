@@ -6,10 +6,10 @@ main:
      url: /docs/troubleshoot/
    - title: "Developer"
      url: https://github.com/manga-download/hakuneko/wiki/Developer-Manual
-   - title: "GitHub"
-     url: https://github.com/manga-download/hakuneko
    - title: "Connectors"
      url: /connectors/
+   - title: "GitHub"
+     url: https://github.com/manga-download/hakuneko
    - title: "Discord"
      url: https://discord.gg/A5d3NDf
    - title: "About"
