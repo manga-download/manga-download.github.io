@@ -68,6 +68,29 @@ Browse to the manga (the page that lists the chapters).
 Copy the URL.
 Switch to HakuNeko and press the paste button at top of the [manga list](/docs/interface/#manga-list) panel.
 
+**How to manually import bookmarks from a website?**
+
+Some websites allows logged in users to bookmark mangas.
+To a certain degree it may be possible to batch-import these bookmarks manually to HakuNeko (probably as backup in case the site went down).
+The following schematic instructions are illustrated using MangaDex, but can be adapted to any other website as well:
+
+1. Open the website in your browser and login with your account
+2. Navigate to your bookmark list
+3. Open the developer tools (F12) and perform a JavaScript CSS query in the console tab to extract all bookmarked links
+e.g.
+```javascript
+console.log([...document.querySelectorAll('a.manga_title')].map(a => a.href).join('\n'));
+// SAMPLE OUPUT:
+// https://mangadex.org/title/540/hitogatana
+// https://mangadex.org/title/44134/piquant
+// https://mangadex.org/title/37103/rain
+// https://mangadex.org/title/1098/sins
+// https://mangadex.org/title/46819/radical
+```
+4. Select and copy the links from the console output to the clipboard (CTRL + C)
+5. Switch to HakuNeko and press the paste button at top of the [manga list](/docs/interface/#manga-list) panel
+6. Select each entry one by one and click the bookmark button [manga list](/docs/interface/#manga-list)
+
 Download with failures
 ======================
 
