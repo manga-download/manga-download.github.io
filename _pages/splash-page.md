@@ -6,6 +6,7 @@ date: 2020-07-19
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
+  og_image : /assets/images/logo_64.png
   overlay_image: /assets/images/banner.png
   actions:
     - label: '<img alt="Download Stable" src="https://img.shields.io/github/downloads/manga-download/hakuneko/latest/total?label=Download%20-%20HakuNeko%20%28Stable%29&logo=github"/>'
