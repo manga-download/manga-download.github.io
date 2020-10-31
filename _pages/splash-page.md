@@ -2,7 +2,7 @@
 title: "Manga & Anime Downloader "
 layout: splash
 permalink: /
-date: 2020-07-19
+date: 2020-10-31
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -23,8 +23,8 @@ feature_row:
   - image_path: assets/images/splash-th-connectors.png
     image_caption: "Connectors"
     alt: "Connectors preview"
-    title: "600+ sources"
-    excerpt: "600+ websites which host the content are included as **Connectors**. HakuNeko does not host anything by itself."
+    title: "700+ sources"
+    excerpt: "700+ websites which host the content are included as **Connectors**. HakuNeko does not host anything by itself."
     url: "https://github.com/manga-download/hakuneko/tree/master/src/web/mjs/connectors"
     btn_label: "List of Connectors"
     btn_class: "btn--primary"
