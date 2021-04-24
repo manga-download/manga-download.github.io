@@ -2,7 +2,7 @@
 permalink: /docs/troubleshoot/
 title: "Troubleshooting"
 excerpt: "What to do in case of errors"
-last_modified_at: 2020-07-30
+last_modified_at: 2021-04-34
 toc: true
 ---
 
@@ -82,8 +82,9 @@ When nothing of these workarounds solve your problem, please ask for help, but p
 The following information is very welcome and may help to reproduce the problem faster:
 
 - Whats your operating system?
-- Which desktop client version are you using (e.g. 0.3.1)?
+- Which desktop client version are you using (e.g. 6.1.7)?
 - What is the rev. number (e.g. 0c3bac, shown at the top right of HakuNeko's settings menu)?
 - Which website / manga / chapter did not work (only if applicable)?
-- Which settings have you set in HakuNeko (especially Chapter Naming Format, Host Connections and Output File Format)
+- Which settings have you set in HakuNeko that are related to your issue (especially Chapter Naming Format, Host Connections and Output File Format)
 - What is shown in the error log after the problem occurs (press `F12` key and select the console tab)?
+- What is not working for you that you expected to work.
