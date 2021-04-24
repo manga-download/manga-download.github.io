@@ -1,6 +1,6 @@
 # hakuneko.download
 
-Home of hakuneko.download
+Home of hakuneko.download website
 
 ## Installation instructions
 
