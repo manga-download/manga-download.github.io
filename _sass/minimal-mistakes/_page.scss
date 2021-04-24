@@ -169,7 +169,7 @@ body {
   &--overlay {
     position: relative;
     margin-bottom: 2em;
-    padding: 2em 0;
+    padding: 3em 0;
     @include clearfix;
     background-size: cover;
     background-repeat: no-repeat;
@@ -210,10 +210,6 @@ body {
       @include breakpoint($small) {
         font-size: $type-size-1;
       }
-    }
-
-    .btn-icon {
-      padding-right : 0.5em;
     }
   }
 }
@@ -301,6 +297,12 @@ body {
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
+}
+
+.page__meta-sep::before {
+  content: "\2022";
+  padding-left: 0.5em;
+  padding-right: 0.5em;
 }
 
 /*
