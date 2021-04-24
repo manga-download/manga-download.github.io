@@ -2,7 +2,7 @@
 permalink: /docs/troubleshoot/
 title: "Troubleshooting"
 excerpt: "What to do in case of errors"
-last_modified_at: 2021-04-34
+last_modified_at: 2021-04-24
 toc: true
 ---
 
