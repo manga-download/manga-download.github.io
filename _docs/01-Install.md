@@ -94,11 +94,11 @@ This directory contains all configurations for hakuneko (e.g. settings, bookmark
 </tr>
 <tr class="odd">
 <td><p>Linux</p></td>
-<td><p><code>~/.config/hakuneko-desktop</code></p></td>
+<td><p><code>$HOME/.config/hakuneko-desktop</code></p></td>
 </tr>
 <tr class="even">
 <td><p>MacOS</p></td>
-<td><p><code>~/Library/Application Support/hakuneko-desktop</code></p></td>
+<td><p><code>$HOME/Library/Application Support/hakuneko-desktop</code></p></td>
 </tr>
 </tbody>
 </table>
@@ -212,11 +212,11 @@ Download Demo Plugin: [HelloPlugin.zip](https://github.com/manga-download/hakune
 </tr>
 <tr class="odd">
 <td><p>Linux</p></td>
-<td><p><code>~/.config/hakuneko-desktop/hakuneko.plugins</code></p></td>
+<td><p><code>$HOME/.config/hakuneko-desktop/hakuneko.plugins</code></p></td>
 </tr>
 <tr class="even">
 <td><p>MacOS</p></td>
-<td><p><code>~/Library/Application Support/hakuneko-desktop/hakuneko.plugins</code></p></td>
+<td><p><code>$HOME/Library/Application Support/hakuneko-desktop/hakuneko.plugins</code></p></td>
 </tr>
 </tbody>
 </table>
@@ -248,11 +248,11 @@ This directory contains the pure web application and will be updated automatical
 </tr>
 <tr class="odd">
 <td><p>Linux</p></td>
-<td><p><code>~/.cache/hakuneko-desktop</code></p></td>
+<td><p><code>$HOME/.cache/hakuneko-desktop</code></p></td>
 </tr>
 <tr class="even">
 <td><p>MacOS</p></td>
-<td><p><code>~/Library/Caches/hakuneko-desktop</code></p></td>
+<td><p><code>$HOME/Library/Caches/hakuneko-desktop</code></p></td>
 </tr>
 </tbody>
 </table>
