@@ -23,8 +23,8 @@ feature_row:
   - image_path: assets/images/splash-th-connectors.png
     image_caption: "Connectors"
     alt: "Connectors preview"
-    title: "700+ sources"
-    excerpt: "700+ websites which host the content are included as **Connectors**. HakuNeko does not host anything by itself."
+    title: "1200+ sources"
+    excerpt: "1200+ websites which host the content are included as **Connectors**. HakuNeko does not host anything by itself."
     url: "https://github.com/manga-download/hakuneko/tree/master/src/web/mjs/connectors"
     btn_label: "List of Connectors"
     btn_class: "btn--primary"
