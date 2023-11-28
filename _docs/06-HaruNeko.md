@@ -101,7 +101,7 @@ adest et aequora pronus, consumpserat nigris.
 
 ![reference layout](/assets/images/documentation/haruneko/ninja.png)
 
-Advabnced
+Advanced
 ------------------------------
 
 Nothing to see here
