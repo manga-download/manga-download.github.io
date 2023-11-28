@@ -8,12 +8,12 @@ toc: true
 
 Temporary documentation page for haruneko
 
-🚀 QuickStart
+🚀 Guides
 ----------------------------------------
 
-**Find a site to get the content you want to view**
+### 📚 Quickstart
 
-### Guide
+**Find a site to get the content you want to view**
 
 <div class="border">
     <p>
@@ -49,7 +49,7 @@ Temporary documentation page for haruneko
     <p>Download, view, bookmark your favorite mangas 📚</p>
 </div>
 
-### Find your source 🔗
+### 🔗 Find your source 
 -----------------------------------------
 
 Temporary filler
