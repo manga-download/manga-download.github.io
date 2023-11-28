@@ -11,7 +11,8 @@ Temporary documentation page for haruneko
 🚀 QuickStart
 ----------------------------------------
 
-**Find a site to get the content you want to view**
+##### Find a site to get the content you want to view
+
 <div class="border">
     <p>
         <strong>HakuNeko</strong> is not hosting anything. Find a website on
@@ -40,7 +41,7 @@ Temporary documentation page for haruneko
     </p>
 </div>
 
-**Ready to go 🚀**
+##### Ready to go 🚀
 
 <div class="border">
     <p>Download, view, bookmark your favorite mangas 📚</p>
