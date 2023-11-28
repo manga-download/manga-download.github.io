@@ -11,7 +11,7 @@ Temporary documentation page for haruneko
 🚀 QuickStart
 ----------------------------------------
 
-<h4>Find a site to get the content you want to view</h4>
+**Find a site to get the content you want to view**
 <div class="border">
     <p>
         <strong>HakuNeko</strong> is not hosting anything. Find a website on
@@ -39,7 +39,9 @@ Temporary documentation page for haruneko
         👉 See the documentation for details
     </p>
 </div>
-<h4>Ready to go 🚀</h4>
+
+**Ready to go 🚀**
+
 <div class="border">
     <p>Download, view, bookmark your favorite mangas 📚</p>
 </div>
@@ -49,7 +51,7 @@ Temporary documentation page for haruneko
 
 Temporary filler
 
-## Modo et pereunt tota sic pedibus ducat
+**Modo et pereunt tota sic pedibus ducat**
 
 Lorem markdownum huic atque frequentat Sabinis. Cape quae undique ad illo aut
 *fuit querellas*.
@@ -58,7 +60,7 @@ Lorem markdownum huic atque frequentat Sabinis. Cape quae undique ad illo aut
 > [ille periuria](http://www.example.com/) haeret necat, virgineo. Cremabo furorem,
 > Cephenum ventos cortice flexi quem memor procul crescit vixque!
 
-## Esse sed dolores emergit exilium currus Thetidi
+**Esse sed dolores emergit exilium currus Thetidi**
 
 Mollia frondentis, si viro insula; dedere caelo custodemque et Cilix. Insequitur
 quotiens vultu numen aethere templa, deficit, pone. Lucifero clipeum
