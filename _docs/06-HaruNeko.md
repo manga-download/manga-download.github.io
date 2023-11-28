@@ -115,14 +115,12 @@ Support
 
 ![reference layout](/assets/images/documentation/haruneko/ninja.png)
 
-❗ Something is not working
-----------------------
+### ❗ Something is not working
 
 **Temporary filler**
 
 ![reference layout](/assets/images/documentation/haruneko/ninja.png)
 
-😺 Hug the team
-----------------------------------
+### 😺 Hug the team
 
 ❤😻❤
