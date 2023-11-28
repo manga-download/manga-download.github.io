@@ -13,6 +13,8 @@ Temporary documentation page for haruneko
 
 **Find a site to get the content you want to view**
 
+### Guide
+
 <div class="border">
     <p>
         <strong>HakuNeko</strong> is not hosting anything. Find a website on
@@ -47,7 +49,7 @@ Temporary documentation page for haruneko
     <p>Download, view, bookmark your favorite mangas 📚</p>
 </div>
 
-🔗 Find your source
+### Find your source 🔗
 -----------------------------------------
 
 Temporary filler
@@ -72,37 +74,42 @@ adest et aequora pronus, consumpserat nigris.
 2. Equitur
 3. Devos palanqua
 
-🔌 Select a plugin
-----------------------------------------
+### 🔌 Select a plugin
 
 **Temporary filler**
 
 ![reference layout](/assets/images/documentation/haruneko/ninja.png)
 
 
-🔽 Download
----------------------------------------------
+### 🔽 Download
+
 
 **Temporary filler**
 
 ![reference layout](/assets/images/documentation/haruneko/ninja.png)
 
-👁️‍🗨️ Preview
----------------------------------------------
+### 👁️‍🗨️ Preview
 
 **Temporary filler**
 
 ![reference layout](/assets/images/documentation/haruneko/ninja.png)
 
-🔖 Bookmarks your favorites
--------------------------------
+### 🔖 Bookmarks your favorites
+
 
 **Temporary filler**
 
 ![reference layout](/assets/images/documentation/haruneko/ninja.png)
 
-✍ Suggest a new connector
+Advabnced
 ------------------------------
+
+Nothing to see here
+
+Support
+------------------------------
+
+### ✍ Suggest a new connector
 
 **Temporary filler**
 
