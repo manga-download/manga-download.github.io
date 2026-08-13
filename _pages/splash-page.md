@@ -2,17 +2,17 @@
 title: "Manga & Anime Downloader "
 layout: splash
 permalink: /
-date: 2020-10-31
+date: 2026-08-13
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   og_image : /assets/images/logo_64.png
   overlay_image: /assets/images/banner.png
   actions:
-    - label: '<img alt="Download Stable" src="https://img.shields.io/github/downloads/manga-download/hakuneko/latest/total?label=Download%20-%20HakuNeko%20%28Stable%29&logo=github"/>'
-      url: "https://github.com/manga-download/hakuneko/releases/latest"
-    - label: '<img alt="Download Nightly" src="https://img.shields.io/github/downloads-pre/manga-download/hakuneko/latest/total?color=blue&label=Download%20-%20HakuNeko%20%28Nightly%29&logo=azure-devops"/>'
-      url: "https://github.com/manga-download/hakuneko/releases"
+    - label: '<img alt="Download v10 beta" src="https://img.shields.io/github/downloads-pre/manga-download/haruneko/latest/total?label=Download%20-%20HaruNeko%20%28v10%20beta%29&logo=github"/>'
+      url: "https://github.com/manga-download/haruneko/releases"
+    - label: '<img alt="Download v8.3 (legacy)" src="https://img.shields.io/github/downloads/manga-download/hakuneko/latest/total?color=blue&label=Download%20-%20HakuNeko%20%28v8.3%20legacy%29&logo=github"/>'
+      url: "https://github.com/manga-download/hakuneko/releases/tag/nightly-20200705.1"
     - label: '<img alt="Discord" src="/assets/images/discord-small.png" /> Join us on Discord'
       url: "https://discord.gg/A5d3NDf"
   caption: "HakuNeko's interface"
